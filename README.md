@@ -12,7 +12,6 @@
   [笔记仓库](https://github.com/oddfar/notes)  |  [我的博客](https://oddfar.com)  
 
 ## 项目介绍
-
 i茅台app，每日自动预约茅台
 - [x] 平台注册账号(可用i茅台)
 - [x] 添加多个用户
